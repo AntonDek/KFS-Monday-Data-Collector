@@ -1,0 +1,68 @@
+[
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "ECOSYS MA4000cix",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 75,
+                "dias_restantes": 73
+            },
+            "C": {
+                "porcentaje": 0,
+                "dias_restantes": 1
+            },
+            "M": {
+                "porcentaje": 5,
+                "dias_restantes": 1
+            },
+            "A": {
+                "porcentaje": 89,
+                "dias_restantes": 160
+            }
+        },
+        "Ultima_conexion": "22/08/2025 16:00:06"
+    },
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "ECOSYS M5526cdw",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 0,
+                "dias_restantes": 0
+            },
+            "C": {
+                "porcentaje": 6,
+                "dias_restantes": 1
+            },
+            "M": {
+                "porcentaje": 6,
+                "dias_restantes": 1
+            },
+            "A": {
+                "porcentaje": 67,
+                "dias_restantes": 364
+            }
+        },
+        "Ultima_conexion": "23/08/2025 09:00:20"
+    },
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "ECOSYS M2040dn",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 57,
+                "dias_restantes": 344
+            }
+        },
+        "Ultima_conexion": "23/08/2025 09:00:06"
+    }
+]

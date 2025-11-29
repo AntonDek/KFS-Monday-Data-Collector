@@ -1,0 +1,56 @@
+[
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "ECOSYS M2135dn",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 79,
+                "dias_restantes": 84
+            }
+        },
+        "Ultima_conexion": "16/08/2025 22:33:19"
+    },
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "TASKalfa 356ci",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 68,
+                "dias_restantes": 308
+            },
+            "C": {
+                "porcentaje": 63,
+                "dias_restantes": 364
+            },
+            "M": {
+                "porcentaje": 87,
+                "dias_restantes": 364
+            },
+            "A": {
+                "porcentaje": 68,
+                "dias_restantes": 364
+            }
+        },
+        "Ultima_conexion": "22/08/2025 08:18:40"
+    },
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXX/XXXXX/XXXXX",
+        "Empresa": "Empresa",
+        "Modelo": "ECOSYS M2040dn",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "XXXXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 32,
+                "dias_restantes": 63
+            }
+        },
+        "Ultima_conexion": "25/08/2025 17:23:32"
+    }
+]

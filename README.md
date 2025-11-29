@@ -1,4 +1,4 @@
-# KyoceraFleetServices–Monday Data Collector
+# KFS–Monday Data Collector
 
 Automated tool for collecting, classifying, and merging printer information obtained from **Kyocera Fleet Services (KFS)** and internal data from the **Cli** file (exported from **Monday**).  
 The project generates structured files categorized by toner levels, urgency, and operational status of each device.

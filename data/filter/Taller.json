@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXXXX/XXXXXXX/XXXXXXX",
+        "Empresa": "Taller",
+        "Modelo": "TASKalfa 306ci",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "V7XXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 30,
+                "dias_restantes": 49
+            },
+            "C": {
+                "porcentaje": 6,
+                "dias_restantes": 1
+            },
+            "M": {
+                "porcentaje": 6,
+                "dias_restantes": 1
+            },
+            "A": {
+                "porcentaje": 6,
+                "dias_restantes": 1
+            }
+        },
+        "Ultima_conexion": "22/08/2025 03:08:50"
+    },
+    {
+        "url": "https://fs-us.kyocera.biz/XXXXXXX/XXXXXXX/XXXXXXX",
+        "Empresa": "Taller",
+        "Modelo": "ECOSYS M3145idn",
+        "Serie_ID": "PD_XXXXXXXXX",
+        "Serie": "V7XXXXXXX",
+        "Toner": {
+            "N": {
+                "porcentaje": 0,
+                "dias_restantes": null
+            }
+        },
+        "Ultima_conexion": "17/08/2025 17:18:16"
+    }
+]
